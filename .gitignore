@@ -193,7 +193,9 @@ cython_debug/
 .vscode/
 
 # Claude
-.claude/
+.claude/settings.local.json
+.claude/scheduled_tasks.json
+.claude/worktrees/
 
 # Codex
 .codex/
